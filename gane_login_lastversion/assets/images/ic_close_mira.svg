@@ -1,0 +1,7 @@
+<svg id="ic_close_mira" xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <path id="Trazado_99016" data-name="Trazado 99016" d="M19,0A19,19,0,1,1,0,19,19,19,0,0,1,19,0Z" fill="#4d4d4d"/>
+  <g id="icons_light_close" data-name="icons/light/close" transform="translate(2 2.686)">
+    <rect id="bg" width="34" height="34" transform="translate(0 1.314)" fill="none"/>
+    <path id="union" d="M10.454,21.99V12.617H1a1,1,0,0,1-1-1v-.163a1,1,0,0,1,1-1h9.455V1.081a1.081,1.081,0,0,1,2.163,0v9.373h9.454a1,1,0,0,1,1,1v.163a1,1,0,0,1-1,1H12.617V21.99a1.081,1.081,0,0,1-2.163,0Z" transform="translate(17) rotate(45)" fill="#e1e2e1"/>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="104" viewBox="0 0 428 104">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_14258" data-name="Rectángulo 14258" width="428" height="104" transform="translate(0 -20)" fill="none"/>
+    </clipPath>
+    <filter id="Trazado_99486" x="-98.984" y="-208.668" width="496.968" height="426.873" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_99487" x="94.516" y="-212.373" width="496.968" height="426.873" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_99488" x="-68.186" y="-101.922" width="249.892" height="236.922" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Enmascarar_grupo_116" data-name="Enmascarar grupo 116" transform="translate(0 20)" clip-path="url(#clip-path)">
+    <g id="Grupo_26517" data-name="Grupo 26517">
+      <g transform="matrix(1, 0, 0, 1, 0, -20)" filter="url(#Trazado_99486)">
+        <path id="Trazado_99486-2" data-name="Trazado 99486" d="M28.906,2.165c98.486,26.2,378.343,177.222,378.343,177.222s22.512,93.481-137.548,74.048C112.522,234.352-71.692-24.595,28.906,2.165Z" transform="matrix(0.9, -0.44, 0.44, 0.9, -90.29, -21.87)" fill="#fd8f47"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -20)" filter="url(#Trazado_99487)">
+        <path id="Trazado_99487-2" data-name="Trazado 99487" d="M28.906,2.165c98.486,26.2,378.343,177.222,378.343,177.222s22.512,93.481-137.548,74.048C112.522,234.352-71.692-24.595,28.906,2.165Z" transform="matrix(0.9, -0.44, 0.44, 0.9, 103.21, -25.58)" fill="#d40"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -20)" filter="url(#Trazado_99488)">
+        <path id="Trazado_99488-2" data-name="Trazado 99488" d="M140.791,11.292c141.1,32.774-7.514,255.676-92.982,136.448C-41.591,23.026-.31-21.482,140.791,11.292Z" transform="matrix(-0.98, 0.21, -0.21, -0.98, 173.5, 84.48)" fill="#fc5d00"/>
+      </g>
+    </g>
+  </g>
+</svg>

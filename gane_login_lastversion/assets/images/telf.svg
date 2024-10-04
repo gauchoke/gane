@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="21" viewBox="0 0 12 21">
+  <g id="Grupo_36179" data-name="Grupo 36179" transform="translate(4127 4939)">
+    <g id="Grupo_36176" data-name="Grupo 36176" transform="translate(807 376)">
+      <g id="Rectángulo_15674" data-name="Rectángulo 15674" transform="translate(-4934 -5315)" fill="none" stroke="#fc4d1e" stroke-width="1">
+        <rect width="12" height="21" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="11" height="20" rx="1.5" fill="none"/>
+      </g>
+      <line id="Línea_355" data-name="Línea 355" x2="11.301" transform="translate(-4933.829 -5311.551)" fill="none" stroke="#fc4d1e" stroke-width="1"/>
+      <line id="Línea_356" data-name="Línea 356" x2="11.301" transform="translate(-4933.829 -5298.742)" fill="none" stroke="#fc4d1e" stroke-width="1"/>
+      <line id="Línea_357" data-name="Línea 357" x2="4.794" transform="translate(-4930.576 -5313.194)" fill="none" stroke="#fc4d1e" stroke-width="1"/>
+      <g id="Rectángulo_15675" data-name="Rectángulo 15675" transform="translate(-4930 -5298)" fill="none" stroke="#fc4d1e" stroke-width="1">
+        <rect width="5" height="2" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="4" height="1" rx="0.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

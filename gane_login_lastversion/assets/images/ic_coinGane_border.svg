@@ -1,0 +1,22 @@
+<svg id="ic_coinGane_border" xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <circle id="Elipse_11251" data-name="Elipse 11251" cx="16.5" cy="16.5" r="16.5" fill="#e8562a"/>
+  <g id="app-new" transform="translate(4 4)">
+    <path id="Trazado_111802" data-name="Trazado 111802" d="M12.734,0A12.734,12.734,0,1,1,0,12.734,12.734,12.734,0,0,1,12.734,0Z" transform="translate(0 0)" fill="#fffeff"/>
+    <ellipse id="Elipse_11230" data-name="Elipse 11230" cx="11.558" cy="11.558" rx="11.558" ry="11.558" transform="translate(1.175 1.175)" fill="none" stroke="#fc4d00" stroke-miterlimit="10" stroke-width="0.6"/>
+    <g id="Grupo_34725" data-name="Grupo 34725" transform="translate(4.932 4.368)">
+      <ellipse id="Elipse_11231" data-name="Elipse 11231" cx="4.183" cy="4.183" rx="4.183" ry="4.183" transform="translate(3.618 4.183)" fill="none" stroke="#fc4d00" stroke-miterlimit="10" stroke-width="0.6"/>
+      <g id="Grupo_34722" data-name="Grupo 34722" transform="translate(3.618 0)">
+        <path id="Trazado_111804" data-name="Trazado 111804" d="M4.183,0A4.183,4.183,0,1,1,0,4.183,4.183,4.183,0,0,1,4.183,0Z" transform="translate(0 8.361)" fill="none" stroke="#fc4d00" stroke-width="0.6"/>
+        <ellipse id="Elipse_11233" data-name="Elipse 11233" cx="4.183" cy="4.183" rx="4.183" ry="4.183" fill="none" stroke="#fc4d00" stroke-miterlimit="10" stroke-width="0.6"/>
+      </g>
+      <g id="Grupo_34723" data-name="Grupo 34723" transform="translate(0.005 2.089)">
+        <ellipse id="Elipse_11234" data-name="Elipse 11234" cx="4.183" cy="4.183" rx="4.183" ry="4.183" fill="none" stroke="#fc4d00" stroke-miterlimit="10" stroke-width="0.6"/>
+        <ellipse id="Elipse_11235" data-name="Elipse 11235" cx="4.183" cy="4.183" rx="4.183" ry="4.183" transform="translate(7.232 4.188)" fill="none" stroke="#fc4d00" stroke-miterlimit="10" stroke-width="0.6"/>
+      </g>
+      <g id="Grupo_34724" data-name="Grupo 34724" transform="translate(0 2.094)">
+        <path id="Trazado_111803" data-name="Trazado 111803" d="M4.183,0A4.183,4.183,0,1,1,0,4.183,4.183,4.183,0,0,1,4.183,0Z" transform="translate(0 4.178)" fill="none" stroke="#fc4d00" stroke-width="0.6"/>
+        <ellipse id="Elipse_11237" data-name="Elipse 11237" cx="4.183" cy="4.183" rx="4.183" ry="4.183" transform="translate(7.242)" fill="none" stroke="#fc4d00" stroke-miterlimit="10" stroke-width="0.6"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Componente_87_28" data-name="Componente 87 – 28" transform="translate(35) rotate(90)">
+    <g id="Icons-_-Back" data-name="Icons-/-Back" transform="translate(6 27) rotate(-90)" clip-path="url(#clip-path)">
+      <rect id="bg" width="24" height="24" fill="#fff" opacity="0"/>
+      <path id="back" d="M15.757,15.757V7.126a1.122,1.122,0,1,1,2.243,0v9.713A1.183,1.183,0,0,1,16.838,18H7.126a1.122,1.122,0,1,1,0-2.243Z" transform="translate(28.97 12) rotate(135)" fill="#fff"/>
+    </g>
+    <rect id="Rectángulo_732" data-name="Rectángulo 732" width="35" height="35" fill="none"/>
+  </g>
+</svg>

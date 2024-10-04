@@ -1,0 +1,12 @@
+<svg id="ic_ok" xmlns="http://www.w3.org/2000/svg" width="31" height="24" viewBox="0 0 31 24">
+  <g id="Grupo_4251" data-name="Grupo 4251" transform="translate(-297 -651)">
+    <g id="Icons-_-Back" data-name="Icons-/-Back" transform="translate(321 675) rotate(180)">
+      <rect id="bg" width="24" height="24" fill="#fff" opacity="0"/>
+      <path id="back" d="M15.757,15.757V7.126a1.122,1.122,0,1,1,2.243,0v9.713A1.183,1.183,0,0,1,16.838,18H7.126a1.122,1.122,0,1,1,0-2.243Z" transform="translate(28.971 12) rotate(135)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Icons-_-Back-2" data-name="Icons-/-Back" transform="translate(31 24) rotate(180)">
+    <rect id="bg-2" data-name="bg" width="24" height="24" fill="#fff" opacity="0"/>
+    <path id="back-2" data-name="back" d="M15.757,15.757V7.126a1.122,1.122,0,1,1,2.243,0v9.713A1.183,1.183,0,0,1,16.838,18H7.126a1.122,1.122,0,1,1,0-2.243Z" transform="translate(28.485 12.515) rotate(135)" fill="#fff"/>
+  </g>
+</svg>

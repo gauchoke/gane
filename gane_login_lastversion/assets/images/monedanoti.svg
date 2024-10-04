@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.1" height="30.098" viewBox="0 0 30.1 30.098">
+  <g id="Grupo_35189" data-name="Grupo 35189" transform="translate(-265.223 -20)">
+    <g id="app-new" transform="translate(265.223 20)">
+      <path id="Trazado_111802" data-name="Trazado 111802" d="M15.05,0A15.049,15.049,0,1,1,0,15.049,15.049,15.049,0,0,1,15.05,0Z" transform="translate(0 0)" fill="#f9c72e"/>
+      <ellipse id="Elipse_11230" data-name="Elipse 11230" cx="13.661" cy="13.66" rx="13.661" ry="13.66" transform="translate(1.389 1.389)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.8"/>
+      <g id="Grupo_34725" data-name="Grupo 34725" transform="translate(5.829 5.162)">
+        <ellipse id="Elipse_11231" data-name="Elipse 11231" cx="4.944" cy="4.944" rx="4.944" ry="4.944" transform="translate(4.277 4.944)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.8"/>
+        <g id="Grupo_34722" data-name="Grupo 34722" transform="translate(4.277 0)">
+          <path id="Trazado_111804" data-name="Trazado 111804" d="M4.944,0A4.944,4.944,0,1,1,0,4.944,4.944,4.944,0,0,1,4.944,0Z" transform="translate(0 9.881)" fill="none" stroke="#fff" stroke-width="0.8"/>
+          <ellipse id="Elipse_11233" data-name="Elipse 11233" cx="4.944" cy="4.944" rx="4.944" ry="4.944" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.8"/>
+        </g>
+        <g id="Grupo_34723" data-name="Grupo 34723" transform="translate(0.006 2.469)">
+          <ellipse id="Elipse_11234" data-name="Elipse 11234" cx="4.944" cy="4.944" rx="4.944" ry="4.944" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.8"/>
+          <ellipse id="Elipse_11235" data-name="Elipse 11235" cx="4.944" cy="4.944" rx="4.944" ry="4.944" transform="translate(8.547 4.95)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.8"/>
+        </g>
+        <g id="Grupo_34724" data-name="Grupo 34724" transform="translate(0 2.475)">
+          <path id="Trazado_111803" data-name="Trazado 111803" d="M4.944,0A4.944,4.944,0,1,1,0,4.944,4.944,4.944,0,0,1,4.944,0Z" transform="translate(0 4.937)" fill="none" stroke="#fff" stroke-width="0.8"/>
+          <ellipse id="Elipse_11237" data-name="Elipse 11237" cx="4.944" cy="4.944" rx="4.944" ry="4.944" transform="translate(8.559)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.8"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_34787" data-name="Grupo 34787" transform="translate(271.054 25.163)">
+      <ellipse id="Elipse_11231-2" data-name="Elipse 11231" cx="4.944" cy="4.944" rx="4.944" ry="4.944" transform="translate(4.277 4.944)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.8"/>
+      <g id="Grupo_34722-2" data-name="Grupo 34722" transform="translate(4.277 0)">
+        <path id="Trazado_111804-2" data-name="Trazado 111804" d="M4.944,0A4.944,4.944,0,1,1,0,4.944,4.944,4.944,0,0,1,4.944,0Z" transform="translate(0 9.881)" fill="none" stroke="#fff" stroke-width="0.8"/>
+        <ellipse id="Elipse_11233-2" data-name="Elipse 11233" cx="4.944" cy="4.944" rx="4.944" ry="4.944" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="Grupo_34723-2" data-name="Grupo 34723" transform="translate(0.006 2.469)">
+        <ellipse id="Elipse_11234-2" data-name="Elipse 11234" cx="4.944" cy="4.944" rx="4.944" ry="4.944" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.8"/>
+        <ellipse id="Elipse_11235-2" data-name="Elipse 11235" cx="4.944" cy="4.944" rx="4.944" ry="4.944" transform="translate(8.547 4.95)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="Grupo_34724-2" data-name="Grupo 34724" transform="translate(0 2.475)">
+        <path id="Trazado_111803-2" data-name="Trazado 111803" d="M4.944,0A4.944,4.944,0,1,1,0,4.944,4.944,4.944,0,0,1,4.944,0Z" transform="translate(0 4.937)" fill="none" stroke="#fff" stroke-width="0.8"/>
+        <ellipse id="Elipse_11237-2" data-name="Elipse 11237" cx="4.944" cy="4.944" rx="4.944" ry="4.944" transform="translate(8.559)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+  </g>
+</svg>

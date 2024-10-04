@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37">
+  <g id="Objeto_inteligente_vectorial" data-name="Objeto inteligente vectorial" transform="translate(-3.631 -2)">
+    <circle id="Elipse_11218" data-name="Elipse 11218" cx="18.5" cy="18.5" r="18.5" transform="translate(3.63 2)" fill="#ff4d00"/>
+    <circle id="Elipse_11219" data-name="Elipse 11219" cx="16.792" cy="16.792" r="16.792" transform="translate(5.338 3.708)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="Grupo_34718" data-name="Grupo 34718" transform="translate(10.788 8.353)">
+      <circle id="Elipse_11220" data-name="Elipse 11220" cx="6.077" cy="6.077" r="6.077" transform="translate(5.264 6.07)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Grupo_34715" data-name="Grupo 34715" transform="translate(5.264 0)">
+        <circle id="Elipse_11221" data-name="Elipse 11221" cx="6.077" cy="6.077" r="6.077" transform="translate(0 12.147)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+        <circle id="Elipse_11222" data-name="Elipse 11222" cx="6.077" cy="6.077" r="6.077" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Grupo_34716" data-name="Grupo 34716" transform="translate(0.007 3.027)">
+        <circle id="Elipse_11223" data-name="Elipse 11223" cx="6.077" cy="6.077" r="6.077" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+        <circle id="Elipse_11224" data-name="Elipse 11224" cx="6.077" cy="6.077" r="6.077" transform="translate(10.506 6.092)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Grupo_34717" data-name="Grupo 34717" transform="translate(0 3.035)">
+        <circle id="Elipse_11225" data-name="Elipse 11225" cx="6.077" cy="6.077" r="6.077" transform="translate(0 6.07)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+        <circle id="Elipse_11226" data-name="Elipse 11226" cx="6.077" cy="6.077" r="6.077" transform="translate(10.521)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

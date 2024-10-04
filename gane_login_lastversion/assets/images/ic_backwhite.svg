@@ -1,0 +1,11 @@
+<svg id="ic_backArrow_white" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26.011" viewBox="0 0 26 26.011">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_15495" data-name="Rectángulo 15495" width="26" height="26.011" fill="#f8f8f8"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_35788" data-name="Grupo 35788" clip-path="url(#clip-path)">
+    <path id="Trazado_112376" data-name="Trazado 112376" d="M0,13A13,13,0,1,1,13.021,26.011,12.992,12.992,0,0,1,0,13m23.682.024A10.681,10.681,0,1,0,13,23.7,10.656,10.656,0,0,0,23.682,13.02" transform="translate(0 0)" fill="#f8f8f8"/>
+    <path id="Trazado_112377" data-name="Trazado 112377" d="M12.917,16.655a1.973,1.973,0,0,1-.192-3.045s2.839-2.69,3.2-3.231c.011-.016.368-.4.873-.866a1.159,1.159,0,1,1,1.62,1.647c-1.129,1.155-2.277,2.292-3.425,3.429a6.386,6.386,0,0,1-.651.491c1.436,1.427,2.741,2.678,3.982,3.99a1.729,1.729,0,0,1,.459,1.2,1.116,1.116,0,0,1-1.954.526" transform="translate(-2.853 -2.148)" fill="#f8f8f8"/>
+  </g>
+</svg>
